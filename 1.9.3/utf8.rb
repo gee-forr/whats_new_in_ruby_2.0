@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
-#encoding: UTF-8
+#encoding: UTF-8 
 
-puts '⮂'
+puts '⮂' # This only prints because of the magic comment
