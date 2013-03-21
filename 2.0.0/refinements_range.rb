@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+#Code example taken from http://blog.marc-andre.ca/2013/02/23/ruby-2-by-example/
 
 require 'pry'
 require 'awesome_print'
